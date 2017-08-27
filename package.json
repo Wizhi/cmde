@@ -1,0 +1,17 @@
+{
+  "name": "cmde",
+  "version": "1.0.0",
+  "description": "A simple command evaluator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Simon Bo Dall Mikkelsen",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  },
+  "dependencies": {
+    "cmdp": "^1.0.0"
+  }
+}
